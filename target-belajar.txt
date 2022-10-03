@@ -1,0 +1,10 @@
+Target Belajar unutuk Menjadi Full-Stack JavaScript
+1.JavaScript FreamWork:
+  -Angular
+  -React
+2.Php
+3.Php Freamwork:
+  -Laravel
+4.Data Base:
+  -Mongo Db
+  -My SQL
